@@ -1,0 +1,7 @@
+.App {
+  text-align: center;
+}
+.Weather li {
+  list-style: none;
+  text-decoration: none;
+}
