@@ -15,7 +15,7 @@ root.render(
         <Search />
       </div>
       <div className="city"></div>
-      <a href="https://github.com/LiubovSheina/weather-app-react" target="_blank" rel="noreferrer">GitHub</a>
+      <a href="https://github.com/LiubovSheina/react-app-weather" target="_blank" rel="noreferrer">GitHub</a>
     </div>
   </StrictMode>
 );
